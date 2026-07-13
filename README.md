@@ -3,7 +3,6 @@
 A Google Colab notebook for analyzing crime data from San Francisco using Python. This notebook performs data loading, preprocessing, exploratory data analysis (EDA), and visualization to uncover patterns and trends in crime incidents.
 
 ---
-
 ## 📖 Overview
 
 This notebook includes:
